@@ -1,0 +1,252 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+
+body
+
+{
+	font-family: cursive;
+	background-color: white;
+	background-image: url("C:\\Users\\admin\\Downloads\\mage-name-generator.jpg");
+	background-size: cover;
+
+}
+.container
+{
+	background-color: yellowgreen;
+	width: 1100px;
+	margin: 0 auto;
+}
+.header
+{
+	height: 100px;
+	background-color:purple;
+	border: solid;
+	font-size: 35px;
+}
+.header h1:hover
+{
+	color: white;
+	font-size: 70px;
+}
+.menu
+{
+	height: 80px;
+	background-color: lightsteelblue;
+	border: ridge;
+	font-size: 20px;
+
+
+}
+.menu ul
+{
+	list-style-type: none;
+}
+.menu ul li
+{
+	position: relative;
+	width: 150px;
+	height: 76px;
+	background-color:lightskyblue;
+	border: 1px solid black;
+	float: left;
+}
+.menu li
+{
+	display: inline-block;
+	width: 110px;
+}
+.menu li a
+{
+	text-decoration: none;
+	color: black;
+	font-size: 35px;
+	display: block;
+	text-align: center;
+	line-height: 10px;
+	padding: 5px;
+	font-weight: bolder;
+}
+.menu ul li ul li ul li 
+{
+	position: relative;
+	width: 150px;
+	height: 60px;
+	background-color: lightblue;
+	border: 1px solid black;
+	float: right;
+}
+.menu ul ul ul
+{
+	margin-left: 20s0px;
+	top: 0;
+}
+.menu ul li ul li ul li ul li
+{
+      position: relative;
+	width: 140px;
+	height: 50px;
+	background-color: lightblue;
+	border: 1px solid black;
+	float: right;
+}
+.menu ul ul ul ul
+{
+	margin-left: 120px;
+	top: 0;
+}
+.menu ul ul
+{
+	position: absolute;
+	display: none;
+}
+.menu ul li:hover>ul
+{
+	display: block;
+}
+.menu li:hover
+{
+	color: white;
+	background-color: black;
+}
+.content
+{
+      width: 890px;
+      box-sizing: border-box;
+      height: 920px;
+      background-color: lightblue;
+      float: right;
+      border: ridge;
+}
+.box1
+{
+	height: 200px;
+	width: 200px;
+	border: 5px solid black;
+	background-image: url("C:\\Users\\admin\\Downloads\\download (1).jpeg");
+	background-size: cover;
+}
+.box2
+{
+	height: 200px;
+	width: 200px;
+	border: 5px solid black;
+	background-image: url("C:\\Users\\admin\\Downloads\\female_mage_by_byanel_dftvq7p-pre.jpg");
+	background-size: cover;
+	float: right;
+	margin-top: -200px;
+}
+.box3
+{
+	height: 200px;
+	width: 400px;
+	position: absolute;
+	top: 280px;
+	right: 270px;
+}
+.box4
+{
+	height: 200px;
+	width: 400px;
+	
+
+}
+.box5
+{
+	height: 200px;
+	width: 200px;
+	border: 5px solid black;
+	background-image: url("C:\\Users\\admin\\Downloads\\human-mage-world-of-warcraft-creationistlife.jpg");
+	background-size: cover;
+	margin-top: `00px;
+	float: right;
+}
+.box6
+{
+	height: 200px;
+	width: 200px;
+	border: 5px solid black;
+	background-image: url("C:\\Users\\admin\\Downloads\\1000_F_564772372_IbRKR4KuY5sKX5mpX3veRUmVUiYwks4H.jpg");
+	background-size: cover;
+	
+}
+.box7
+{
+	height: 200px;
+	width: 300px;
+	position: absolute;
+	top: 700px;
+	right: 500px;
+}
+.content h1:hover
+{
+	margin-top: 10px;
+	font-family:monospace;
+	transition-duration: 2s;
+
+}
+.content p
+{
+	margin-top: 10px;
+	text-align: justify;
+	font-size: 17px;
+}
+.content p:hover
+{
+	font-weight: bolder;
+	font-family: sans-serif;
+	color: darkred;
+}
+.sidebar
+{
+	width: 200px;
+	min-height: 906px;
+	background-color: lightpink;
+	border: ridge;
+	font-weight: bolder;
+	font-size: 20px;
+
+	
+}
+.sidebar ul
+{
+	list-style-type: none;
+
+}
+.sidebar li:hover
+{
+	width: 200px;
+	display: block;
+	height: 20px;
+	line-height: 5px;
+	font-size: 25px;
+	font-family: sans-serif;
+	
+}
+.sidebar li a 
+{
+	width: 200px;
+	display: block;
+	padding: 10px 15px;
+	font-size: 50px;
+}
+.sidebar li:hover
+{
+      color: red;
+}
+.footer
+{
+	height: 40px;
+	background-color: lightgreen;
+	clear: both;
+	border: ridge;
+	font-size: 25px;
+}
+.footer:hover
+{
+	background-color: red;
+}
+

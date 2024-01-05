@@ -1,0 +1,187 @@
+.row
+{
+    height: 100px;
+    width: 1332px;
+    margin: 0 auto;
+}
+
+.col_1
+{
+    height: 100px;
+    width: 111px;
+    float: left;
+}
+
+.col_2
+{
+    height: 100px;
+    width: 222px;
+    float: left;
+}
+
+.col_3
+{
+    height: 100px;
+    width: 333px;
+    float: left;
+}
+
+.col_4
+{
+    height: 100px;
+    width: 444px;
+    float: left;
+}
+
+.col_5
+{
+    height: 100px;
+    width: 555px;
+    float: left;
+}
+
+.col_6
+{
+    box-sizing: border-box;
+    height: 250px;
+    width: 666px;
+    float: left;
+}
+
+.col_7
+{
+    height: 100px;
+    width: 777px;
+    float: left;
+}
+
+.col_8
+{
+    height: 100px;
+    width: 888px;
+    float: left;
+}
+
+.col_9
+{
+    height: 100px;
+    width: 999px;
+    float: left;
+}
+
+.col_10
+{
+    height: 100px;
+    width: 1110px;
+    float: left;
+}
+
+.col_11
+{
+    height: 100px;
+    width: 1221px;
+    float: left;
+}
+
+.col_12
+{
+    height: 100px;
+    width: 1332px;
+    float: left;
+}
+
+.clear
+{
+    clear: both;
+}
+
+.red
+{
+    background-color: red;
+}
+
+.blue
+{
+    background-color: blue;
+}
+
+.green
+{
+    background-color: green;
+}
+
+.header
+{
+    height: 100px;
+    width: 300px;
+    padding-left: 90px ;
+}
+
+.tag{
+    padding-left: 90px;
+    font-size: x-large;
+}
+
+table
+{
+    text-align: center;
+    height: 238px;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 4px;
+    border: 0px solid;
+    box-shadow: 0px 10px 10px 1px gray;
+}
+
+#email
+{
+    width: 265px;
+    height: 30px;
+}
+
+#pin
+{
+    width: 265px;
+    height: 30px;
+}
+
+#log
+{
+    width: 265px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+#create
+{
+    height: 30px;
+    background-color: rgb(64, 215, 63);
+    color: white;
+    border: none;
+    border-radius: 4px;    
+}
+
+table a
+{
+    text-decoration: none;
+    color: blue;
+}
+
+.box
+{
+    box-sizing: border-box;
+    padding-right: 350px;
+}
+
+#tag_2
+{
+    padding-right: 340px;
+}
+
+.height_1
+{
+    height: 250px;
+}

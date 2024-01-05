@@ -1,0 +1,97 @@
+.row
+{
+	width: 1200px;
+	margin: 0 auto;
+	background-color: hotpink;
+	height: 100px;
+}
+.col-1
+{
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+.col-2
+{
+	height: 100px;
+	width: 200px;
+	float: left;
+}.col-3
+{
+	height: 100px;
+	width: 300px;
+	float: left;
+}.col-4
+{
+	height: 100px;
+	width: 400px;
+	float: left;
+}.col-5
+{
+	height: 100px;
+	width: 500px;
+	float: left;
+}.col-6
+{
+	height: 100px;
+	width: 600px;
+	float: left;
+}.col-7
+{
+	height: 100px;
+	width: 700px;
+	float: left;
+}.col-8
+{
+	height: 100px;
+	width: 800px;
+	float: left;
+}.col-9
+{
+	height: 100px;
+	width: 900px;
+	float: left;
+}.col-10
+{
+	height: 100px;
+	width: 1000px;
+	float: left;
+}.col-11
+{
+	height: 100px;
+	width: 1100px;
+	float: left;
+}.col-12
+{
+	height: 110px;
+	width: 1200px;
+	float: left;
+}
+.clear
+{
+	clear: both;
+}
+.red
+{
+	background-color: red;
+}
+.blue
+{
+	background-color: blue;
+}
+.hotpink
+{
+	background-color: hotpink;
+}
+.darkcyan
+{
+	background-color: darkcyan;
+}
+.lightcoral
+{
+	background-color: lightcoral;
+}
+.magenta
+{
+	background-color: magenta;
+}

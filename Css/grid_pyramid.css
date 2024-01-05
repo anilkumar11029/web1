@@ -1,0 +1,89 @@
+.body 
+{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    margin: 0;
+}
+
+  .pyramid {
+    text-align: center;
+}
+
+  .block 
+  {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: darkred;
+    margin: 0px;
+}
+.clear
+{
+  clear: both;
+}
+.red
+{
+  background-color: red;
+}
+.blue
+{
+  background-color: blue;
+}
+.hotpink
+{
+  background-color: hotpink;
+}
+.darkcyan
+{
+  background-color: darkcyan;
+}
+.lightcoral
+{
+  background-color: lightcoral;
+}
+.magenta
+{
+  background-color: magenta;
+}
+.purple
+{
+  background-color: purple;
+}
+.black
+{
+  background-color: black;
+}
+.rebeccapurple
+{
+  background-color: rebeccapurple;
+}
+.tomato
+{
+  background-color: tomato;
+}
+.sandybrown
+{
+  background-color: sandybrown;
+}
+.gainsboro
+{
+  background-color: gainsboro;
+}
+.firebrick
+{
+  background-color: firebrick;
+}
+.lightseagreen
+{
+  background-color: lightseagreen;
+}
+.palegreen
+{
+  background-color: palegreen;
+}
+.yellow
+{
+  background-color: yellow;
+}
